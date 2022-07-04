@@ -1,0 +1,21 @@
+{
+  "culture": "nl",
+  "texts": {
+    "Menu:Home": "Home",
+    "Welcome": "Welkom",
+    "LongWelcomeMessage": "Welkom bij de applicatie. Dit is een startup-project gebaseerd op het ABP-framework. Bezoek abp.io voor meer informatie.",
+    "Permission:Product": "Product",
+    "Permission:Create": "Create",
+    "Permission:Update": "Update",
+    "Permission:Delete": "Delete",
+    "Menu:Product": "MenuProduct",
+    "Product": "Product",
+    "ProductName": "ProductName",
+    "ProductDescription": "ProductDescription",
+    "ProductPrice": "ProductPrice",
+    "CreateProduct": "CreateProduct",
+    "EditProduct": "EditProduct",
+    "ProductDeletionConfirmationMessage": "Are you sure to delete the product {0}?",
+    "SuccessfullyDeleted": "Successfully deleted"
+  }
+}

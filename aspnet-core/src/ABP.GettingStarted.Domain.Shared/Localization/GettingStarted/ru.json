@@ -1,0 +1,21 @@
+{
+  "culture": "ru",
+  "texts": {
+    "Menu:Home": "Главная",
+    "Welcome": "Добро пожаловать",
+    "LongWelcomeMessage": "Добро пожаловать в приложение. Этот запущенный проект основан на фреймворке ABP. Для получения дополнительной информации посетите сайт abp.io.",
+    "Permission:Product": "Product",
+    "Permission:Create": "Create",
+    "Permission:Update": "Update",
+    "Permission:Delete": "Delete",
+    "Menu:Product": "MenuProduct",
+    "Product": "Product",
+    "ProductName": "ProductName",
+    "ProductDescription": "ProductDescription",
+    "ProductPrice": "ProductPrice",
+    "CreateProduct": "CreateProduct",
+    "EditProduct": "EditProduct",
+    "ProductDeletionConfirmationMessage": "Are you sure to delete the product {0}?",
+    "SuccessfullyDeleted": "Successfully deleted"
+  }
+}

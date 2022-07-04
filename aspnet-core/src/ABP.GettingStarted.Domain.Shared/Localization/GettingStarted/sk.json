@@ -1,0 +1,21 @@
+{
+  "culture": "sk",
+  "texts": {
+    "Menu:Home": "Domov",
+    "Welcome": "Vitajte",
+    "LongWelcomeMessage": "Vitajte v aplikácii. Toto je štartovací projekt založený na ABP frameworku. Viac informácií nájdete na stránke abp.io.",
+    "Permission:Product": "Product",
+    "Permission:Create": "Create",
+    "Permission:Update": "Update",
+    "Permission:Delete": "Delete",
+    "Menu:Product": "MenuProduct",
+    "Product": "Product",
+    "ProductName": "ProductName",
+    "ProductDescription": "ProductDescription",
+    "ProductPrice": "ProductPrice",
+    "CreateProduct": "CreateProduct",
+    "EditProduct": "EditProduct",
+    "ProductDeletionConfirmationMessage": "Are you sure to delete the product {0}?",
+    "SuccessfullyDeleted": "Successfully deleted"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "culture": "en-GB",
+  "texts": {
+    "Menu:Home": "Home",
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io.",
+    "Permission:Product": "Product",
+    "Permission:Create": "Create",
+    "Permission:Update": "Update",
+    "Permission:Delete": "Delete",
+    "Menu:Product": "MenuProduct",
+    "Product": "Product",
+    "ProductName": "ProductName",
+    "ProductDescription": "ProductDescription",
+    "ProductPrice": "ProductPrice",
+    "CreateProduct": "CreateProduct",
+    "EditProduct": "EditProduct",
+    "ProductDeletionConfirmationMessage": "Are you sure to delete the product {0}?",
+    "SuccessfullyDeleted": "Successfully deleted"
+  }
+}

@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ABP.GettingStarted.Users
+{
+    public static class UserConsts
+    {
+        public const string TitlePropertyName = "Title";
+        public const string ReputationPropertyName = "Reputation";
+        public const int MaxTitleLength = 64;
+        public const double MaxReputationValue = 1_000;
+        public const double MinReputationValue = 1;
+    }
+}
